@@ -5,21 +5,18 @@
 }
 
 hr {
-    width: 300px;
+    width: 25%;
     height: 2px;
     display: block;
     margin: auto;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding: 1rem 0;
 }
 
-
 /* navbar styling */
-
 .navbar {
-    font-size: 2em;
+    font-size: 2rem;
     width: 100%;
-    height: 75px;
+    height: 4rem;
     background-color: #ffffff;
 }
 
@@ -28,7 +25,6 @@ hr {
 }
 
 /* Hero image*/
-
 .hero-image {
     height: 50vh;
     background-image: url('../img/gym1.jpg');
@@ -39,51 +35,45 @@ hr {
 }
 
 /* main body*/
-
 img {
     max-width: 100%;
     max-height: 100%;
 }
 
 .image-stance {
-    height: 420px;
-    width: 384px;
+    height: auto;
+    max-height: 25rem;
+    width: 100%;
 }
-
-
-
 
 .card-body {
     background-color: #f39200;
 }
 
-
-
 /* footer styling */
-
 .footer {
-    padding: 40px 0;
+    padding: 2.5rem 0;
     background-color: #f39200;
-    height: 200px;
+    height: 12rem;
 }
 
 .footer .social {
     text-align: center;
-    padding-bottom: 25px;
+    padding-bottom: 1.5rem;
     color: darkslategrey;
 }
 
 .footer .social a {
-    font-size: 30px;
+    font-size: 2rem;
     color: inherit;
     border: 1px solid darkslategray;
-    width: 40px;
-    height: 40px;
-    line-height: 38px;
+    width: 2.5rem;
+    height: 2.5rem;
+    line-height: 2.2rem;
     display: inline-block;
     text-align: center;
     border-radius: 50%;
-    margin: 0 8px;
+    margin: 0 0.5rem;
     opacity: 0.75;
 }
 
@@ -94,8 +84,8 @@ img {
 .footer ul {
     margin-top: 0;
     padding: 0;
-    font-size: 18px;
-    line-height: 1.6;
+    font-size: 1.2rem;
+    line-height: 1.6rem;
     margin-bottom: 0;
     text-align: center;
 }
@@ -106,7 +96,7 @@ img {
 
 .footer ul li {
     display: inline-block;
-    padding: 0 15px;
+    padding: 0 1rem;
 }
 
 .footer ul li a:hover {
@@ -114,8 +104,8 @@ img {
 }
 
 .footer .copyright {
-    margin-top: 15px;
+    margin-top: 1rem;
     text-align: center;
-    font-size: 13px;
+    font-size: 0.9rem;
     color: darkslategray;
 }
