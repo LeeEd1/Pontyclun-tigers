@@ -9,6 +9,8 @@ hr {
     height: 2px;
     display: block;
     margin: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 
@@ -18,6 +20,10 @@ hr {
     font-size: 2em;
     width: 100%;
     height: 75px;
+    background-color: #ffffff;
+}
+
+#navbarNav {
     background-color: #ffffff;
 }
 
@@ -40,16 +46,12 @@ img {
 }
 
 .image-stance {
-    height: 300px;
-    width: 200px;
-    border-radius: 50%;
+    height: 420px;
+    width: 384px;
 }
 
 
-.introduction {
-    width: 50%;
-    float: left;
-}
+
 
 .card-body {
     background-color: #f39200;
