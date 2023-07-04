@@ -12,6 +12,7 @@ hr {
     padding: 1rem 0;
 }
 
+/*home page*/
 /* navbar styling */
 .navbar {
     font-size: 2rem;
@@ -22,6 +23,7 @@ hr {
 
 #navbarNav {
     background-color: #ffffff;
+    z-index: 1;
 }
 
 /* Hero image*/
@@ -46,8 +48,22 @@ img {
     width: 100%;
 }
 
-.card-body {
-    background-color: #f39200;
+.image-stance2 {
+    height: auto;
+    max-height: 25rem;
+    width: 100%;
+}
+
+/*benefit styling*/
+.benefit h4 {
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    text-decoration: underline;
+}
+
+.benefit p {
+    text-justify: distribute;
 }
 
 /* footer styling */
@@ -108,4 +124,14 @@ img {
     text-align: center;
     font-size: 0.9rem;
     color: darkslategray;
+}
+
+/*about*/
+.hero-image-about {
+    height: 50vh;
+    background-image: url('../img/gym2.jpg');
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
