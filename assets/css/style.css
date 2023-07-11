@@ -46,6 +46,7 @@ img {
     height: auto;
     max-height: 25rem;
     width: 100%;
+    border-radius: 1rem;
 }
 
 .image-stance2 {
@@ -135,3 +136,4 @@ img {
     align-items: center;
     justify-content: center;
 }
+
