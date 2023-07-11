@@ -12,6 +12,10 @@ hr {
     padding: 1rem 0;
 }
 
+p {
+    font-size: 18px;
+}
+
 /*home page*/
 /* navbar styling */
 .navbar {
@@ -44,7 +48,7 @@ img {
 
 .image-stance {
     height: auto;
-    max-height: 25rem;
+    max-height: 40rem;
     width: 100%;
     border-radius: 1rem;
 }
@@ -130,6 +134,7 @@ img {
 }
 
 /*about*/
+/*hero styling*/
 .hero-image-about {
     height: 50vh;
     background-image: url('../img/gym2.jpg');
@@ -139,6 +144,12 @@ img {
     justify-content: center;
 }
 
+/*about section styling*/
+.about-photo {
+    border-radius: 1rem;
+}
+
+/*classes styling*/
 .card {
     background-color: #f39200;
     border-radius: 1rem;
