@@ -155,6 +155,11 @@ img {
 }
 
 /*about section styling*/
+.abt-pht {
+    display: grid;
+    align-items: center;
+}
+
 .about-photo {
     border-radius: 1rem;
 }
