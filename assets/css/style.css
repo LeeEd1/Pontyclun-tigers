@@ -4,18 +4,21 @@
     box-sizing: border-box;
 }
 
-
-
 hr {
     width: 25%;
     height: 2px;
     display: block;
     margin: auto;
-    padding: 1rem 0;
+    padding-bottom: 0.5rem;
 }
 
 p {
     font-size: 18px;
+}
+
+#logo-img {
+    width: 60px;
+    height: auto;
 }
 
 /*home page*/
@@ -28,7 +31,6 @@ p {
 }
 
 #navbarNav {
-
     background-color: #ffffff;
     z-index: 1;
 }
@@ -95,6 +97,7 @@ img {
     text-align: center;
     border: 1px solid black;
     border-radius: 1rem;
+    padding: 1rem;
 }
 
 /* footer styling */
@@ -140,7 +143,6 @@ img {
 .footer ul li a {
     color: inherit;
 }
-
 
 .footer ul li {
     display: inline-block;
@@ -217,4 +219,11 @@ img {
 
 .map {
     width: 100%;
+}
+
+/* media queries */
+@media (max-width: 767px) {
+    #logo-img {
+        width: 50px;
+    }
 }
