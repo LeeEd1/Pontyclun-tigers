@@ -82,7 +82,9 @@ p {
 }
 
 /*benefit styling*/
-.benefit h4 {
+.benefit h4,
+.benefit h1 {
+    font-size: 23px;
     text-align: center;
     padding-top: 1rem;
     padding-bottom: 1rem;
@@ -212,6 +214,7 @@ p {
     max-width: 56.25rem;
     display: grid;
     align-items: center;
+    margin-bottom: 1rem;
 }
 
 .map {
@@ -228,6 +231,15 @@ p {
     .hero-image {
         height: 30vh;
         background-image: url('../img/gym1.jpg');
+        background-size: cover;
+        display: flex;
+        align-items: center;
+        justify-content: right;
+    }
+
+    .hero-image-about {
+        height: 30vh;
+        background-image: url('../img/gym2.jpg');
         background-size: cover;
         display: flex;
         align-items: center;
