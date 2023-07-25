@@ -82,8 +82,7 @@ p {
 }
 
 /*benefit styling*/
-.benefit h4,
-.benefit h1 {
+.benefit h4 {
     font-size: 23px;
     text-align: center;
     padding-top: 1rem;
