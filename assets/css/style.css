@@ -6,6 +6,14 @@
     box-sizing: border-box;
 }
 
+h1 {
+    font-family: 'Merriweather';
+}
+
+h4 {
+    font-family: 'Merriweather';
+}
+
 hr {
     width: 25%;
     height: 2px;
@@ -27,6 +35,7 @@ p {
 /* navbar styling */
 .navbar {
     font-size: 2rem;
+    font-family: 'Merriweather';
     width: 100%;
     height: 4rem;
     background-color: #ffffff;
@@ -49,8 +58,10 @@ p {
 
 /* main body*/
 .introduction h2 {
+    font-family: 'Merriweather';
     text-align: center;
     text-decoration: underline solid;
+    font-weight: 575;
 }
 
 .introduction p {
@@ -85,6 +96,7 @@ p {
 
 /*benefit styling*/
 .benefit h4 {
+    font-family: 'Merriweather';
     font-size: 23px;
     text-align: center;
     padding-top: 1rem;
