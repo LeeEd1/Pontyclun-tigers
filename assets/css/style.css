@@ -70,7 +70,7 @@ p {
 }
 
 .introduction p {
-    text-align: justify;
+    text-align: start;
     font-weight: 500;
 }
 
@@ -111,7 +111,7 @@ p {
 
 .benefit p {
     font-weight: 500;
-    text-align: justify;
+    text-align: center;
     border: 1px solid black;
     border-radius: 1rem;
     padding: 1rem;
