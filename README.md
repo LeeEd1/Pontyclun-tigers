@@ -1,39 +1,37 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Pontyclun Tigers
 
-Welcome,
+Pontyclun tigers is a branch of Steve Tottle Tae Kwon Do located in Pontyclun, South wales. Our aim is to recruit as many children between the ages of 3 and 6 to kick start their journey into the TKD world! Established in 2018 We have secured our own unit with all the necessary equipment for any child to become a young tiger.
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Our ultimate goal is to raise as much awareness as we can for Pontyclun tigers, intorduce ourselves and show everyone what we are about!
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+Pontyclun Tigers site is live and the link can be found [here](https://leeed1.github.io/pontyclun-tigers/)
 
-## Codeanywhere Reminders
+## UX
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+### Site Purpose:
 
-`python3 -m http.server`
+Our main objective is to raise awareness about our identity and mission. We aim to reach a wider audience by using different means and platforms to share information about our values, principles, and overall goals.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### Site Goal:
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+Our site goal is to reach as many parents and children as we possibly can to start their journey with us and provide them with as much information as we possibly can.
 
-`http_server`
+### Audience:
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+Our audience is aimed towards children aged between 3 and 6 who are willing to start a new adventure and have fun along the way.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### Current user goals:
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+- To gain as much information as they can
+- View our current class times and location
+- View any updates or changes in times/events
 
-To log into the Heroku toolbelt CLI:
+### New user goals:
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+- To be able to navigate the website easily with concision.
+- For information to be up to date and informative
+- Aim to captivate and inspire all those visiting the website for the very first time.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+## Design
 
----
-
-Happy coding!
+### Typography
