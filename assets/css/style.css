@@ -55,7 +55,7 @@ p {
 
 /* Hero image*/
 .hero-image {
-    height: 50vh;
+    height: 60vh;
     background-image: url('../img/gym1.jpg');
     background-size: cover;
     display: flex;
@@ -181,7 +181,7 @@ p {
 /*about page*/
 /*hero styling*/
 .hero-image-about {
-    height: 50vh;
+    height: 60vh;
     background-image: url('../img/gym2.jpg');
     background-size: cover;
     display: flex;
