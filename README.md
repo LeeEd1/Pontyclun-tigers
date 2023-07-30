@@ -84,15 +84,58 @@ The about hero image is another angle of the gym followed by a personal statemen
 
 ![about page](/assets/readme-img/aboutpage.PNG)
 
+### Contact page:
+
+The contact page features a contact form for registering interest followed by an interactive map pinpointing where the gym is located.
+![Form](/assets/readme-img/contactform.PNG)
+![Map](/assets/readme-img/mapcontact.PNG)
+
 ### Footer:
 
-Social media links along with youtube were added to the footer for more viewing pleasure, I also decided to add site map below for the user to quickly access the other pages as shown below.
+Social media links along with youtube were added to the footer for more viewing pleasure, I also decided to add site map below for the user to quickly access the other pages from the bottom as shown below.
 
 ![Footer](/assets/readme-img/footer.PNG)
 
 ## Testing:
 
-## Technologies used
+During testing I found my images were getting distorted or not reacting how I wanted them too due to image sizing, I fixed these issues by applying the following style rules.
+
+![Fix1](/assets/readme-img/imagefix.PNG) ![Fix2](/assets/readme-img/imagefix2.PNG)
+
+I also found that my logo dropped down slighly overlapping my hero image on mobile devices only, I believe this is due to my nav link compressing to a Hamburger menu. To fix this issue i added in a media query at 767px to resize the image as shown below.
+
+![Logofix](/assets/readme-img/logofix.PNG)
+
+### Manual testing
+
+Below is a table of manual testing carried out by myself.
+
+| Feature Tested | Action                   | Outcome                       | Result                                   |
+| -------------- | ------------------------ | ----------------------------- | ---------------------------------------- |
+| Logo           | Left Click               | Take user back to home page   | Succesfully loads home page              |
+| Nav Links      | Left click required link | User directed to correct page | All links navigate and load successfully |
+| Footer links   | Left click required link | User directed to correct page | All links navigate and load successfully |
+| Map            | ctrl+scroll              | Zoom in and out to locate gym | Interacts successfully                   |
+
+### Responsiveness
+
+Pontyclun Tigers was meticulously crafted as a fully responsive page to ensure a smooth user experience on all devices. Throughout the testing phase, I thoroughly examined the page on different device sizes using developer tools, and I also sought feedback from various family members by sharing the live link to ensure its responsiveness across their devices as well.
+
+### Bugs
+
+After all my testing phases, There are no known bugs to date.
+
+### Validator Testing
+
+- Html file Passed through w3c with no issues found.
+
+![HTML](/assets/readme-img/htmlw3c.PNG)
+
+- Css file passed through w3c with no issues found.
+
+![CSS](/assets/readme-img/cssw3c.PNG)
+
+## Technologies Used:
 
 ### Languages
 
