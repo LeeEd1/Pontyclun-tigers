@@ -1,8 +1,8 @@
 # Pontyclun Tigers
 
-Pontyclun tigers is a branch of Steve Tottle Tae Kwon Do located in Pontyclun, South wales. Our aim is to recruit as many children between the ages of 3 and 6 to kick start their journey into the TKD world! Established in 2018 We have secured our own unit with all the necessary equipment for any child to become a young tiger.
+Pontyclun tigers is a branch of Steve Tottle Tae Kwon Do (TKD) located in Pontyclun, South wales. Our aim is to enrol as many children between the ages of 3 and 6 and with encouragement and support, kick start their journey into the TKD world! Established in 2018 We have secured our own unit with all the necessary equipment for any child to become a young tiger.
 
-Our ultimate goal is to raise as much awareness as we can for Pontyclun tigers, intorduce ourselves and show everyone what we are about!
+Our ultimate goal of this website is to raise as much awareness as possible for Pontyclun tigers, introduce ourselves and show everyone what we are able to offer.
 
 ![Site view across devices](/assets/readme-img/pagelayout.PNG)
 
@@ -20,11 +20,11 @@ Our site goal is to reach as many parents and children as we possibly can to sta
 
 ### Audience:
 
-Our audience is aimed towards children aged between 3 and 6 who are willing to start a new adventure and have fun along the way.
+Our audience is aimed towards children aged between 3 and 6 who are willing to start a new adventure in TKD, develop discipline and have fun along the way.
 
 ### Current user goals:
 
-- To gain as much information as they can
+- To gain as much information about Pontyclun Tigers TKD
 - View our current class times and location
 - View any updates or changes in times/events
 
@@ -64,19 +64,13 @@ Below is the navbar for mobile devices which collapses to a Hamburger.
 
 ![Navigation-mob](/assets/readme-img/navbarmob.PNG)
 
-### Footer:
-
-Social media links along with youtube were added to the footer for more viewing pleasure, I also decided to add site map below for the user to quickly access the other pages as shown below.
-
-![Footer](/assets/readme-img/footer.PNG)
-
 ### Home page:
 
-The hero image for the landing page is the gym the students will be training in, I felt this was important as it shows how dedicated and authentic this club really is, as shown below.
+The hero image for the landing page is the gym the students will be training in with the equiplment that will be used. I feel this is important as it gives potential members a flavour of what to expect prior to attending the venue. This page also displays a degree of dedication and authenticity from the club due to the quality and range of equpiment and space. As shown below.
 
 ![gym image](/assets/readme-img/gymhome.PNG)
 
-Below the hero image is a genuine and detailed truth of who and how the club came to be.
+Below the hero image is a detailed histology of how the club was established. This was provided by the client.
 
 ![About section](/assets/readme-img/gymabout.PNG)
 
@@ -90,8 +84,41 @@ The about hero image is another angle of the gym followed by a personal statemen
 
 ![about page](/assets/readme-img/aboutpage.PNG)
 
+### Footer:
+
+Social media links along with youtube were added to the footer for more viewing pleasure, I also decided to add site map below for the user to quickly access the other pages as shown below.
+
+![Footer](/assets/readme-img/footer.PNG)
+
+## Testing:
+
 ## Technologies used
 
 ### Languages
 
-### Frameworks
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Frameworks, libraries & Programs used
+
+- Font Awesome - To add icons to benefits section and social icons.
+- Code Anywhere - To create my HTML and CSS files.
+- Git Hub - To store my repostiory.
+- Photoshop - To create the benefit section image.
+- Am I Responsive - To view site on all devices.
+- Google Fonts - For the fonts Merriweather and Monserrat.
+
+## Deployment
+
+The site was deployed through Github pages, The steps to deploy are as follows:
+
+- In the git hub repository navigate to the settings tab.
+- Under the Code and Automation section, select Pages.
+- From the sourcedrop-down menu, select the MAIN branch. Then select Save.
+- Once the main branch has been selected , the page with autimatically be refreshed with a detailed ribbon to diplay the deployment was successful.
+- The live site can be found [here](https://leeed1.github.io/pontyclun-tigers/)
