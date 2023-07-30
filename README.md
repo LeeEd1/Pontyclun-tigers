@@ -106,24 +106,26 @@ I also found that my logo dropped down slighly overlapping my hero image on mobi
 
 ![Logofix](/assets/readme-img/logofix.PNG)
 
+I was also having issues with my hero images on smaller devices cropping out alot of the gym, to fix this I added a media query to justify the content right as shown below.
+
+![Herofix](/assets/readme-img/herofix.PNG)
+
 ### Manual testing
 
 Below is a table of manual testing carried out by myself.
 
-| Feature Tested | Action                   | Outcome                       | Result                                   |
-| -------------- | ------------------------ | ----------------------------- | ---------------------------------------- |
-| Logo           | Left Click               | Take user back to home page   | Succesfully loads home page              |
-| Nav Links      | Left click required link | User directed to correct page | All links navigate and load successfully |
-| Footer links   | Left click required link | User directed to correct page | All links navigate and load successfully |
-| Map            | ctrl+scroll              | Zoom in and out to locate gym | Interacts successfully                   |
+| Feature Tested                      | Action                   | Outcome                       | Result                                   |
+| ----------------------------------- | ------------------------ | ----------------------------- | ---------------------------------------- |
+| Logo (All Pages)                    | Left Click               | Take user back to home page   | Succesfully loads home page              |
+| Home navigation link (All Pages)    | Left click Home link     | User directed to Home page    | All links navigate and load successfully |
+| About navigation link (All Pages)   | Left click About link    | User directed to About page   | All links navigate and load successfully |
+| Contact navigation link (All Pages) | Left click Contact link  | User directed to Contact page | All links navigate and load successfully |
+| Footer Links                        | Left click required link | User directed to correct page | All links navigate and load successfully |
+| Map                                 | ctrl+scroll              | Zoom in and out to locate gym | Interacts successfully                   |
 
 ### Responsiveness
 
 Pontyclun Tigers was meticulously crafted as a fully responsive page to ensure a smooth user experience on all devices. Throughout the testing phase, I thoroughly examined the page on different device sizes using developer tools, and I also sought feedback from various family members by sharing the live link to ensure its responsiveness across their devices as well.
-
-### Bugs
-
-After all my testing phases, There are no known bugs to date.
 
 ### Validator Testing
 
@@ -134,6 +136,10 @@ After all my testing phases, There are no known bugs to date.
 - Css file passed through w3c with no issues found.
 
 ![CSS](/assets/readme-img/cssw3c.PNG)
+
+### Bugs
+
+After my final testing phases, There are no known bugs to date.
 
 ## Technologies Used:
 
@@ -165,3 +171,18 @@ The site was deployed through Github pages, The steps to deploy are as follows:
 - From the sourcedrop-down menu, select the MAIN branch. Then select Save.
 - Once the main branch has been selected , the page with autimatically be refreshed with a detailed ribbon to diplay the deployment was successful.
 - The live site can be found [here](https://leeed1.github.io/pontyclun-tigers/)
+
+## Credits & Ackknowledgement
+
+### Content
+
+- [Bootstrap](https://bootstrap.com/) For my grid layouts and some styling classes.
+- [fontawesome](https://fontawesome.com/) For my icons.
+- [Googlefonts](https://fonts.google.com/) For my fonts.
+- [Pexels](https://www.pexels.com/) For some of my images.
+
+### People
+
+- I would like to thank My Mentor Spencer Barriball for his support throughout my first project milesone.
+- I would like to thank the [Code institute](https://learn.codeinstitute.net/ci_support/level5diplomainwebappdevelopment/tutor) tutor team for their support throughout my project.
+- I would like to thank my good friend [Nicolas Mobey](https://www.linkedin.com/in/nicolas-mobey-79149049) for his support and help with correcting my image issues within my page.
