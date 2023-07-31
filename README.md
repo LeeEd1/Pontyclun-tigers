@@ -137,6 +137,17 @@ Pontyclun Tigers was meticulously crafted as a fully responsive page to ensure a
 
 ![CSS](/assets/readme-img/cssw3c.PNG)
 
+### Lighthouse reports
+
+| Location        | Result                                             |
+| --------------- | -------------------------------------------------- |
+| Home Desktop    | ![deskhome](/assets/readme-img/deskhome.PNG)       |
+| Home Mobile     | ![deskmob](/assets/readme-img/deskmob.PNG)         |
+| About Desktop   | ![aboutdesk](/assets/readme-img/abouthome.PNG)     |
+| About Mobile    | ![aboutmob](/assets/readme-img/aboutmob.PNG)       |
+| Contact Desktop | ![contactdesk](/assets/readme-img/contactdesk.PNG) |
+| Contact Mobile  | ![contactmob](/assets/readme-img/contactmob.PNG)   |
+
 ### Bugs
 
 After my final testing phases, There are no known bugs to date.
