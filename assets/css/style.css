@@ -241,6 +241,8 @@ p {
     width: 100%;
 }
 
+
+
 /* media queries */
 @media (max-width: 767px) {
     #logo-img {
