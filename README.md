@@ -202,6 +202,12 @@ The site was deployed through Github pages, The steps to deploy are as follows:
 - [Googlefonts](https://fonts.google.com/) For my fonts.
 - [Pexels](https://www.pexels.com/) For some of my images.
 
+### Media
+
+- [Pexel](https://www.pexels.com/photo/a-girl-practicing-karate-near-glass-windows-7045408/)
+- [Pexel](https://www.pexels.com/photo/a-woman-in-karate-position-7045663/)
+- All other images were sourced from client.
+
 ### People
 
 - I would like to thank My Mentor [Spencer barriball](https://github.com/5pence) for his support throughout my first project milesone.
