@@ -137,14 +137,14 @@ Below is a table of manual testing carried out by myself.
 
 - Html files Passed through w3c with no issues found, As shown below.
 
-[Home page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fleeed1.github.io%2Fpontyclun-tigers%2Findex.html)
-[About page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fleeed1.github.io%2Fpontyclun-tigers%2Fabout.html)
-[Contact page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fleeed1.github.io%2Fpontyclun-tigers%2Fcontact.html)
-[Thank you page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fleeed1.github.io%2Fpontyclun-tigers%2Fthankyou.html%3F)
+- [Home page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fleeed1.github.io%2Fpontyclun-tigers%2Findex.html)
+- [About page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fleeed1.github.io%2Fpontyclun-tigers%2Fabout.html)
+- [Contact page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fleeed1.github.io%2Fpontyclun-tigers%2Fcontact.html)
+- [Thank you page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fleeed1.github.io%2Fpontyclun-tigers%2Fthankyou.html%3F)
 
 - Css file passed through w3c with no issues found other than the 16 errors through bootstrap.
 
-![CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fleeed1.github.io%2Fpontyclun-tigers%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+- [CSS](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fleeed1.github.io%2Fpontyclun-tigers%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ### Lighthouse reports
 
