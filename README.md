@@ -52,6 +52,16 @@ All images were taken from the client except the two main images which were sour
 
 ### WireFrames:
 
+#### Desktop wireframes
+
+- View Home Wireframe [Here](/assets/readme-img/homewire.pdf)
+- View About Wireframe [Here](/assets/readme-img/aboutwire.pdf)
+- View Contact Wireframe [Here](/assets/readme-img/contactwire.pdf)
+
+#### Mobile Wireframes
+
+- View Mobile Wireframes [Here](/assets/readme-img/mobilewire.pdf)
+
 ## Features
 
 ### NavBar
@@ -123,10 +133,6 @@ Below is a table of manual testing carried out by myself.
 | Footer Links                        | Left click required link | User directed to correct page | All links navigate and load successfully |
 | Map                                 | ctrl+scroll              | Zoom in and out to locate gym | Interacts successfully                   |
 
-### Responsiveness
-
-Pontyclun Tigers was meticulously crafted as a fully responsive page to ensure a smooth user experience on all devices. Throughout the testing phase, I thoroughly examined the page on different device sizes using developer tools, and I also sought feedback from various family members by sharing the live link to ensure its responsiveness across their devices as well.
-
 ### Validator Testing
 
 - Html file Passed through w3c with no issues found.
@@ -147,6 +153,10 @@ Pontyclun Tigers was meticulously crafted as a fully responsive page to ensure a
 | About Mobile    | ![aboutmob](/assets/readme-img/aboutmob.PNG)       |
 | Contact Desktop | ![contactdesk](/assets/readme-img/contactdesk.PNG) |
 | Contact Mobile  | ![contactmob](/assets/readme-img/contactmob.PNG)   |
+
+### Responsiveness
+
+Pontyclun Tigers was meticulously crafted as a fully responsive page to ensure a smooth user experience on all devices. Throughout the testing phase, I thoroughly examined the page on different device sizes using developer tools, and I also sought feedback from various family members by sharing the live link to ensure its responsiveness across their devices as well.
 
 ### Bugs
 
@@ -194,6 +204,6 @@ The site was deployed through Github pages, The steps to deploy are as follows:
 
 ### People
 
-- I would like to thank My Mentor Spencer Barriball for his support throughout my first project milesone.
+- I would like to thank My Mentor [Spencer barriball](https://github.com/5pence) for his support throughout my first project milesone.
 - I would like to thank the [Code institute](https://learn.codeinstitute.net/ci_support/level5diplomainwebappdevelopment/tutor) tutor team for their support throughout my project.
 - I would like to thank my good friend [Nicolas Mobey](https://www.linkedin.com/in/nicolas-mobey-79149049) for his support and help with correcting my image issues within my page.
