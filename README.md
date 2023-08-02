@@ -10,47 +10,47 @@ Pontyclun Tigers site is live and the link can be found [here](https://leeed1.gi
 
 ## UX
 
-### Site Purpose:
+### Site Purpose
 
 Our main objective is to raise awareness about our identity and mission. We aim to reach a wider audience by using different means and platforms to share information about our values, principles, and overall goals.
 
-### Site Goal:
+### Site Goal
 
 Our site goal is to reach as many parents and children as we possibly can to start their journey with us and provide them with as much information as we possibly can.
 
-### Audience:
+### Audience
 
 Our audience is aimed towards children aged between 3 and 6 who are willing to start a new adventure in TKD, develop discipline and have fun along the way.
 
-### Current user goals:
+### Current user goals
 
 - To gain as much information about Pontyclun Tigers TKD
 - View our current class times and location
 - View any updates or changes in times/events
 
-### New user goals:
+### New user goals
 
 - To be able to navigate the website easily with concision.
 - For information to be up to date and informative
 - Aim to captivate and inspire all those visiting the website for the very first time.
 
-## Design
+## Design:
 
-### Typography:
+### Typography
 
 Merriweather was selected for all Headings and Nav Bar with Monserrat selected for all other content on the page. I chose these after many google searches because i found them to be easy on the eye and very clear to read.
 
-### Colour Scheme:
+### Colour Scheme
 
 The colour scheme was based around the logo and general colours of the tigers club.
 
 ![Site Colours](/assets/readme-img/Capture.PNG)
 
-### Images:
+### Images
 
 All images were taken from the client except the two main images which were sourced through pexels.
 
-### WireFrames:
+### WireFrames
 
 #### Desktop wireframes
 
@@ -62,7 +62,7 @@ All images were taken from the client except the two main images which were sour
 
 - View Mobile Wireframes [Here](/assets/readme-img/mobilewire.pdf)
 
-## Features
+## Features:
 
 ### NavBar
 
@@ -74,13 +74,13 @@ Below is the navbar for mobile devices which collapses to a Hamburger.
 
 ![Navigation-mob](/assets/readme-img/navbarmob.PNG)
 
-### Home page:
+### Home page
 
 The hero image for the landing page is the gym the students will be training in with the equiplment that will be used. I feel this is important as it gives potential members a flavour of what to expect prior to attending the venue. This page also displays a degree of dedication and authenticity from the club due to the quality and range of equpiment and space. As shown below.
 
 ![gym image](/assets/readme-img/gymhome.PNG)
 
-Below the hero image is a detailed histology of how the club was established. This was provided by the client.
+Below the hero image is a detailed histology of how the club was established. This was provided by the client. Below welcome to pontyclun tigers I changed h2 from About us to Introduction, On reflection I found it to be confusing with About us then a navlink with About.
 
 ![About section](/assets/readme-img/gymabout.PNG)
 
@@ -88,19 +88,19 @@ The last section of the home page is the potential benefits of TKD.
 
 ![Benefit section](/assets/readme-img/gymbenefit.PNG)
 
-### About page:
+### About page
 
 The about hero image is another angle of the gym followed by a personal statement from the gym owner and classes.
 
 ![about page](/assets/readme-img/aboutpage.PNG)
 
-### Contact page:
+### Contact page
 
 The contact page features a contact form for registering interest followed by an interactive map pinpointing where the gym is located.
 ![Form](/assets/readme-img/contactform.PNG)
 ![Map](/assets/readme-img/mapcontact.PNG)
 
-### Footer:
+### Footer
 
 Social media links along with youtube were added to the footer for more viewing pleasure, I also decided to add site map below for the user to quickly access the other pages from the bottom as shown below.
 
@@ -132,6 +132,11 @@ Below is a table of manual testing carried out by myself.
 | Contact navigation link (All Pages) | Left click Contact link  | User directed to Contact page | All links navigate and load successfully |
 | Footer Links                        | Left click required link | User directed to correct page | All links navigate and load successfully |
 | Map                                 | ctrl+scroll              | Zoom in and out to locate gym | Interacts successfully                   |
+
+### Browsers & devices tested
+
+- I have tested the site on Chrome, Firefox, Edge & safari with no issues.
+- I have tested the site on Multiple devices such as Desktop, Laptop, tablet & mobile via link with no issues.
 
 ### Validator Testing
 
@@ -185,6 +190,7 @@ After my final testing phases, There are no known bugs to date.
 - Photoshop - To create the benefit section image.
 - Am I Responsive - To view site on all devices.
 - Google Fonts - For the fonts Merriweather and Monserrat.
+- Balsimiq - For my wireframes.
 
 ## Deployment
 
