@@ -199,8 +199,11 @@ p {
 
 /*about section styling*/
 .about h3 {
+    font-family: 'Merriweather', sans-serif;
     text-decoration: underline;
     text-align: center;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
 }
 
 .about p {
@@ -225,6 +228,10 @@ p {
 .card {
     background-color: #f39200;
     border-radius: 1rem;
+}
+
+.card-body {
+    font-family: 'Montserrat', sans-serif;
 }
 
 /*Contact page*/
