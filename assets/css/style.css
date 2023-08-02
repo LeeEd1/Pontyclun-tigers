@@ -60,7 +60,7 @@ p {
 /* Hero image*/
 .hero-image {
     height: 60vh;
-    background-image: url('../img/gym1.jpg');
+    background-image: url('../img/gym6.jpg');
     background-size: cover;
     display: flex;
     align-items: center;
@@ -190,7 +190,7 @@ p {
 /*hero styling*/
 .hero-image-about {
     height: 60vh;
-    background-image: url('../img/gym2.jpg');
+    background-image: url('../img/gym4.jpg');
     background-size: cover;
     display: flex;
     align-items: center;
