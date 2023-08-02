@@ -190,7 +190,7 @@ p {
 /*hero styling*/
 .hero-image-about {
     height: 60vh;
-    background-image: url('../img/gym4.jpg');
+    background-image: url('../img/gym3.jpg');
     background-size: cover;
     display: flex;
     align-items: center;
